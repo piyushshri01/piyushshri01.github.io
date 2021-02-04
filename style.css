@@ -275,6 +275,7 @@ nav {
     box-shadow: 2px 2px 20px rgba(0,0,0,0.1);
 }
 .p-box{
+    border: 5px solid  #17d1ac;
     background-color: #1f1f1f;
     overflow: hidden;
     box-shadow: 2px 2px 13px rgba(0,0,0,0.3);
